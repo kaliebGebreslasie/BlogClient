@@ -1,0 +1,53 @@
+body {
+    /*background-image: url('https://upload.wikimedia.org/wikipedia/commons/3/31/CampNouPano2010.jpg');*/
+    /*background-image: url('https://s-media-cache-ak0.pinimg.com/originals/26/a7/bf/26a7bf57376556a60bdafba75ddc373d.jpg');*/
+    background-image: url('http://www.dsogaming.com/wp-content/uploads/2015/08/fifa-16-vitality-stadium-large.jpg');
+    background-repeat: no-repeat;
+    background-size: 100% auto;
+}
+
+form, .form-control, textarea, button {
+    margin: 10px;
+}
+.likes{
+    display: inline;
+}
+
+.contents{
+    background-color: white;
+}
+
+h1.title {
+    font-family: Helvetica,sans-serif;
+    font-size:120px;
+    color:#DDCCEE;
+    background-color:#110022;
+}
+em{
+    font-size: 16px;
+    font-weight: bold;
+}
+.lead {
+    color:#DDCCEE;
+    background-color:#110022;
+    font-size:40px;
+}
+
+/* Custom container */
+.container-full {
+    margin: 0 auto;
+    width: 100%;
+    min-height:50%;
+    /*background-color:#110022;*/
+    color:#eee;
+    overflow:hidden;
+}
+
+.container-full a {
+    color:#efefef;
+    text-decoration:none;
+}
+
+.v-center {
+    margin-top:7%;
+}
